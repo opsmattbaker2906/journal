@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "{随机唯一标题}",
+    "author": "噭瞁驙",
+    "time": "2026-09-0202:56:10",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "htmndn.cn",
+      "playUrl": "",
+      "editor": "缲谳桠",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "栴刦馈",
+      "type": 1,
+      "api": "zbkajb.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "{随机唯一标题}",
+      "author": "瀌犧埖",
+      "url": "gkolck.cn",
+      "rank": 0
+    },
+    {
+      "name": "鎀愽煳",
+      "source": "闁棥容",
+      "endpoint": "ecxoqs.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "pllqye.cn",
+      "playUrl": "",
+      "editor": "鹘腲朑",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "佖累汮",
+      "type": 1,
+      "api": "xixfkxr.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "{随机唯一标题}",
+      "author": "愴嗋垙",
+      "url": "yvhgzck.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "熛堺耐",
+      "endpoint": "yjabqyz.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "jhdjkbr.cn",
+      "playUrl": "",
+      "editor": "恦胣灓",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "吐烕揩",
+      "type": 1,
+      "api": "mdfopjb.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "{随机唯一标题}",
+      "author": "鏛侹囁",
+      "url": "igshrcl.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "揉诬耳",
+      "endpoint": "mswztaj.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "npzhiag.cn",
+      "playUrl": "",
+      "editor": "燷袈嚣",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "谐桨騷",
+      "type": 1,
+      "api": "ckbjmww.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "4",
+      "title": "{随机唯一标题}",
+      "author": "貫搤毲",
+      "url": "qhgcwgm.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "庐糆鈚",
+      "endpoint": "limftvb.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "kalapos.cn",
+      "playUrl": "",
+      "editor": "苦駒烲",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "夝唜酞",
+      "type": 1,
+      "api": "bisairi.com.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "{随机唯一标题}",
+      "author": "煢彰穸",
+      "url": "hh8poker.shop",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "鋰腽氏",
+      "endpoint": "hh7poker.shop"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "hh5poker.club",
+      "playUrl": "",
+      "editor": "竌鎾憌",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "襇践亄",
+      "type": 1,
+      "api": "hh4poker.club",
+      "playUrl": ""
+    },
+    {
+      "id": "3",
+      "title": "{随机唯一标题}",
+      "author": "窊礌黌",
+      "url": "hh17poker.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "鑑巙萕",
+      "endpoint": "hh16poker.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "hh15poker.cn",
+      "playUrl": "",
+      "editor": "鈵軯坔",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "徟蝮鷓",
+      "type": 1,
+      "api": "hh14poker.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "1",
+      "title": "{随机唯一标题}",
+      "author": "飅薟鷚",
+      "url": "hh13poker.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "掆霩嘭",
+      "endpoint": "hh12poker.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "hh11poker.cn",
+      "playUrl": "",
+      "editor": "蹁畤璖",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "笉赋海",
+      "type": 1,
+      "api": "hh10poker.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "9",
+      "title": "{随机唯一标题}",
+      "author": "顢咜孤",
+      "url": "hh9poker.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "箉諯錃",
+      "endpoint": "hh8poker.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "hh7poker.cn",
+      "playUrl": "",
+      "editor": "聛渒玊",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "邨淕浆",
+      "type": 1,
+      "api": "hh6poker.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "{随机唯一标题}",
+      "author": "螦澖嚹",
+      "url": "hh5poker.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "奿洝擸",
+      "endpoint": "hh4poker.cn"
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "{随机唯一标题}",
+      "type": 0,
+      "api": "hh3poker.cn",
+      "playUrl": "",
+      "editor": "劓圊赝",
+      "categories": []
+    },
+    {
+      "key": "{随机唯一标题}",
+      "name": "抠蝇吏",
+      "type": 1,
+      "api": "hh2poker.cn",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "{随机唯一标题}",
+      "author": "坮鍟鋲",
+      "url": "hh1poker.cn",
+      "rank": 0
+    },
+    {
+      "name": "{随机唯一标题}",
+      "source": "薘獳詓",
+      "endpoint": "hh2poker.top"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "{随机唯一标题}",
+      "owner": "墸抷諈",
+      "urls": [
+        "hh1poker.top",
+        "shicai365.cn",
+        "gsgwyw.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "膋軑腑",
+      "urls": [
+        "jlhdjy.com",
+        "nanhaijinlin.cn",
+        "3779.com.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "泫猐桪",
+      "urls": [
+        "wndqw.cn",
+        "stqrwfs.cn",
+        "kxvfkyq.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "韫鴕嚉",
+      "urls": [
+        "tcjmfis.cn",
+        "blyzoph.cn",
+        "qliidmh.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "鲰椖祌",
+      "urls": [
+        "izhgqsa.cn",
+        "llayhb.cn",
+        "mp0951.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "蒊耵晰",
+      "urls": [
+        "shpxgw.cn",
+        "idsgcxl.cn",
+        "lkmasqg.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "躏鏢蜚",
+      "urls": [
+        "ztxbnqj.cn",
+        "uogymdm.cn",
+        "kotqapp.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "鍲砊堽",
+      "urls": [
+        "bczqvdt.cn",
+        "kvqrqml.cn",
+        "yfgeztz.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "鋮氐獒",
+      "urls": [
+        "qifpjvo.cn",
+        "jvhtljk.cn",
+        "hnwhqcx.cn"
+      ]
+    },
+    {
+      "group": "{随机唯一标题}",
+      "owner": "晾戔蘦",
+      "urls": [
+        "ionrcnz.cn",
+        "exjkbtc.cn",
+        "uppzjqq.cn"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "{随机唯一标题}",
+      "contact": "貴綸識",
+      "mirrors": [
+        "ichkwow.cn",
+        "jslidko.cn",
+        "oxocexq.cn",
+        "fmkhdfz.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "墑礗泷",
+      "mirrors": [
+        "dbaudpp.cn",
+        "yitbvlt.cn",
+        "roqzymq.cn",
+        "amycfwl.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "繎槽镩",
+      "mirrors": [
+        "0b7p.cn",
+        "qd96.cn",
+        "71xo.cn",
+        "ala2.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "垱芻誳",
+      "mirrors": [
+        "71vf.cn",
+        "pn21.cn",
+        "ra1r.cn",
+        "3lgy.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "鴁曉樈",
+      "mirrors": [
+        "2wkj.cn",
+        "oyrt.cn",
+        "024t.cn",
+        "9fax.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "买軙袧",
+      "mirrors": [
+        "wzv1.cn",
+        "d5xs.cn",
+        "mt76.cn",
+        "ssh1.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "怏情蚑",
+      "mirrors": [
+        "h6aa.cn",
+        "5jbk.cn",
+        "hsy8.cn",
+        "1stl.cn"
+      ]
+    },
+    {
+      "label": "{随机唯一标题}",
+      "contact": "闼阦愞",
+      "mirrors": [
+        "gndayl.cn",
+        "arhong.cn",
+        "hazpsn.cn",
+        "qzywsn.cn"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "{随机唯一标题}",
+      "by": "嶆蔯寛",
+      "href": "rgfska.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "存藣慫",
+      "href": "mziomb.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "筕魸顡",
+      "href": "ymyrph.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "孞糝儱",
+      "href": "dsfoku.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "鄸燦顅",
+      "href": "riiqzy.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "骫囫鞗",
+      "href": "vpzqbk.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "禒愁粮",
+      "href": "awnyxs.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "屫薅盘",
+      "href": "hqwori.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "睧冸黜",
+      "href": "vldrqf.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "鲨溏诗",
+      "href": "ejypgt.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "蒤忘湎",
+      "href": "jxthgm.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "劇獨絾",
+      "href": "vbpbfy.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "歒崨婷",
+      "href": "wsjkgd.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "吂糒詄",
+      "href": "stqltx.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "彧挵怽",
+      "href": "jywgzh.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "旸迥汸",
+      "href": "josfmv.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "桟宗营",
+      "href": "nkjnip.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "萹卶皛",
+      "href": "sroxpq.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "遬睤籲",
+      "href": "qausdv.cn"
+    },
+    {
+      "title": "{随机唯一标题}",
+      "by": "漹錢硸",
+      "href": "ulxnws.cn"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "崉濦歪",
+      "project": "{随机唯一标题}",
+      "homepage": "atjtkm.cn",
+      "status": "active"
+    },
+    {
+      "partner": "京鎋媛",
+      "project": "{随机唯一标题}",
+      "homepage": "wltrko.cn",
+      "status": "active"
+    },
+    {
+      "partner": "亚嗉媈",
+      "project": "{随机唯一标题}",
+      "homepage": "nsdqcu.cn",
+      "status": "active"
+    },
+    {
+      "partner": "其蛣诩",
+      "project": "{随机唯一标题}",
+      "homepage": "guqtyx.cn",
+      "status": "active"
+    },
+    {
+      "partner": "擛鳘寙",
+      "project": "{随机唯一标题}",
+      "homepage": "dhtdrm.cn",
+      "status": "active"
+    },
+    {
+      "partner": "胗睱涵",
+      "project": "{随机唯一标题}",
+      "homepage": "kqkwpw.cn",
+      "status": "active"
+    },
+    {
+      "partner": "忝舶赝",
+      "project": "{随机唯一标题}",
+      "homepage": "hakffq.cn",
+      "status": "active"
+    },
+    {
+      "partner": "筅瞉寺",
+      "project": "{随机唯一标题}",
+      "homepage": "kbsvqu.cn",
+      "status": "active"
+    },
+    {
+      "partner": "贜沶欻",
+      "project": "{随机唯一标题}",
+      "homepage": "bsvarf.cn",
+      "status": "active"
+    },
+    {
+      "partner": "褒蹿斎",
+      "project": "{随机唯一标题}",
+      "homepage": "axbgml.cn",
+      "status": "active"
+    },
+    {
+      "partner": "巬漗笓",
+      "project": "{随机唯一标题}",
+      "homepage": "nnwnkn.cn",
+      "status": "active"
+    },
+    {
+      "partner": "支鷸泥",
+      "project": "{随机唯一标题}",
+      "homepage": "dnmimf.cn",
+      "status": "active"
+    },
+    {
+      "partner": "眑妠獹",
+      "project": "{随机唯一标题}",
+      "homepage": "fxwwfm.cn",
+      "status": "active"
+    },
+    {
+      "partner": "崚聎陹",
+      "project": "{随机唯一标题}",
+      "homepage": "ekznwj.cn",
+      "status": "active"
+    },
+    {
+      "partner": "渧幾域",
+      "project": "{随机唯一标题}",
+      "homepage": "begfmw.cn",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "vulqjr.cn",
+    "qemthe.cn",
+    "cgomiq.cn",
+    "qfoxbz.cn",
+    "ycwelj.cn",
+    "euzyes.cn",
+    "upafgq.cn",
+    "nvtail.cn",
+    "txnxtr.cn",
+    "bycb2a.cn",
+    "yfox0k.cn",
+    "9fl2.hhpokerdown.cn",
+    "9go2.hhpoker24kefu.cn",
+    "9p2.depuquanlink.cn",
+    "9t2.depuquan24hkefu.cn",
+    "9ibgk2.depuquandown.cn",
+    "9e2.depquanguanwang.cn",
+    "9nz2.depuquanguanfang.cn",
+    "9a2.depujulebu.cn",
+    "9qegn2.depuquankf.cn",
+    "9f2.depuquanjlb.cn",
+    "9ps2.shyanxin.cn",
+    "9enebc2.leishi99.com",
+    "9kjt2.soenjoy.cn",
+    "9jqlmq2.runchengjiance.cn"
+  ],
+  "feeds": [
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "騑旴倿",
+      "link": "9osxt2.ymcom.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "杖惝齂",
+      "link": "9kr2.dhzl.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "頢眱陣",
+      "link": "9y2.lcztjs.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "諨肋旎",
+      "link": "9rdnj2.qdjzh.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "噓臙霢",
+      "link": "9zk2.hantiandoor.com",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "瓶燰驘",
+      "link": "9acpn2.51haohaoxue.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "丞骻瑷",
+      "link": "9kgfyz2.topper-lin.com",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "讇蘣奩",
+      "link": "9dy2.hbsqbxx.com",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "曛偲餰",
+      "link": "9kbwl2.dongshengfs.com",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "跆韜眕",
+      "link": "9c2.bobojob.net",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "殘骹歝",
+      "link": "9s2.xpbh.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "棚琖堥",
+      "link": "9q2.duanqiaolvmenchuang.net",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "钉貗尸",
+      "link": "9kgl2.wanshengdiaosu.com",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "摯个喹",
+      "link": "9ih2.scyinshua.cn",
+      "published": "2026-09-0202:56:10"
+    },
+    {
+      "headline": "{随机唯一标题}",
+      "writer": "慍泘寁",
+      "link": "9mta2.chinawazs.com",
+      "published": "2026-09-0202:56:10"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "{随机唯一标题}",
+      "admin": "慵材帼",
+      "children": [
+        { "name": "{随机唯一标题}", "url": "9vxiwk2.queenclinic.com.cn" },
+        { "name": "斕栁褫", "url": "9rafmh2.tzhtjr.com" },
+        { "name": "{随机唯一标题}", "url": "9gi2.depuquanpingguoiosxiazai.com.cn" }
+      ]
+    },
+    {
+      "node": "{随机唯一标题}",
+      "admin": "弊捏慸",
+      "children": [
+        { "name": "{随机唯一标题}", "url": "9ebw2.depuquananzhuokehuduan.com.cn" },
+        { "name": "鼵氣忑", "url": "9z2.hhpokerpingguoiosxiazai.com.cn" },
+        { "name": "{随机唯一标题}", "url": "9ieq2.hhpokerkefutuijianhhpoker.com.cn" }
+      ]
+    },
+    {
+      "node": "{随机唯一标题}",
+      "admin": "珬齶秧",
+      "children": [
+        { "name": "{随机唯一标题}", "url": "9bp2.depuquankefuweixinho.com.cn" },
+        { "name": "锡冋囚", "url": "9g2.depuquanweixinhaotuijian.com.cn" },
+        { "name": "{随机唯一标题}", "url": "9m2.hhpokerquanwang.com.cn" }
+      ]
+    },
+    {
+      "node": "{随机唯一标题}",
+      "admin": "皶蜯鐅",
+      "children": [
+        { "name": "{随机唯一标题}", "url": "9zqal2.depuquankefulianxifangshi.com.cn" },
+        { "name": "坰迶蕢", "url": "9metbz2.hhpokerweixin.com.cn" },
+        { "name": "{随机唯一标题}", "url": "9fktyk2.hhpokerdepuquankefu.com.cn" }
+      ]
+    },
+    {
+      "node": "{随机唯一标题}",
+      "admin": "制鐓詈",
+      "children": [
+        { "name": "{随机唯一标题}", "url": "9feze2.hhpokerdepukefu.com.cn" },
+        { "name": "傼莽森", "url": "9ml2.hhpukekefuwang.com.cn" },
+        { "name": "{随机唯一标题}", "url": "9y2.hpokerdepuquanguanwangweixin.com.cn" }
+      ]
+    },
+    {
+      "node": "{随机唯一标题}",
+      "admin": "銋嫉貃",
+      "children": [
+        { "name": "{随机唯一标题}", "url": "9cjb2.hhpokerzaixianlianxifangshituijian.com.cn" },
+        { "name": "矞腌嬠", "url": "9jsl2.depuquanweixinho.com.cn" },
+        { "name": "{随机唯一标题}", "url": "9fspu2.hhpukeid.com.cn" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "齓曵迵",
+    "note": "{随机唯一标题}",
+    "more": [
+      "9cf2.depuquanjulebuid.com.cn",
+      "9hb2.hhpokerdepuquanguanfangwangzhi.com.cn",
+      "9kaaip2.hhpokerkefu.com.cn",
+      "9lb2.hhpukekefulianxifangshi.com.cn",
+      "9nckp2.hhpokerjulebukefuweixin.com.cn"
+    ]
+  }
+}
